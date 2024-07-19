@@ -1,5 +1,6 @@
 .DS_Store
 xinfra/docker/*.jar
+xinfra/argocd
 HELP.md
 .gradle
 build/
